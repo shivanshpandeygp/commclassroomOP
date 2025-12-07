@@ -1,4 +1,4 @@
 # commclassroomOP
 
-Kunal Kushwaha learing github amazing..
-Shivansh Made this changes
+Kunal Kushwaha learing github amazing!
+This changes made by Vijay kushwaha
